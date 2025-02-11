@@ -1,6 +1,6 @@
 # Elastic Hash Table
 
-A simplified implementation of the Elastic Hashing algorithm as described in [Optimal Bounds for Open Addressing Without Reordering" by Martín Farach-Colton, Andrew Krapivin, and William Kuszmaul (2025)](https://arxiv.org/pdf/2501.02305).
+A simplified implementation of the Elastic Hashing algorithm described by Martín Farach-Colton, Andrew Krapivin and William Kuszmaul in [Optimal Bounds for Open Addressing Without Reordering" by Martín Farach-Colton, Andrew Krapivin, and William Kuszmaul (2025)](https://arxiv.org/pdf/2501.02305)
 
 ## Features
 
